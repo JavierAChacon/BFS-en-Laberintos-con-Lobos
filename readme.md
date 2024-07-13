@@ -18,14 +18,7 @@ Puedes suponer que L ≥ 0, 2 ≤ N ≤ 100 y que existirán exactamente una ent
 
 ### Ejemplo de entrada:
 
-1  
-6  
-####S#  
-#....#  
-#.##*#  
-#....#  
-#...*#  
-####E#  
+![image](https://github.com/user-attachments/assets/30154cd7-1b55-4b4e-b45a-b13f4d1d41f2)
 
 ## Formato de Salida
 
