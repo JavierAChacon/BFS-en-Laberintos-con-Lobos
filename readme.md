@@ -18,14 +18,14 @@ Puedes suponer que L ≥ 0, 2 ≤ N ≤ 100 y que existirán exactamente una ent
 
 ### Ejemplo de entrada:
 
-1
-6
-####S#
-#....#
-#.##*#
-#....#
-#...*#
-####E#
+1  
+6  
+####S#  
+#....#  
+#.##*#  
+#....#  
+#...*#  
+####E#  
 
 ## Formato de Salida
 
@@ -35,5 +35,5 @@ El archivo de texto `salidalobo.txt` deberá contener:
 
 ### Ejemplo de salida correspondiente al ejemplo de entrada:
 
-Numero de pasos: 11
+Numero de pasos: 11  
 Ruta tomada: NNOOONNEEEN
